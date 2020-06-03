@@ -1,4 +1,5 @@
 import React from 'react';
+import contact from "./components";
 import logo from './logo.svg';
 import './App.css';
 
