@@ -17,7 +17,7 @@ class ContactCard extends Component {
     }
 }
 
-ContactCard.PropTypes = {
+ContactCard.propTypes = {
     name: PropTypes.string.isRequired,
     mobile: PropTypes.string.isRequired,
     work: PropTypes.string.isRequired,
